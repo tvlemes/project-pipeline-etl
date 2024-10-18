@@ -64,5 +64,8 @@ class BaseETL(abc.ABC):
     def teste_log(self) -> None:
         self._logger.info("Teste de info!")
 
+  
+
+
 
 
